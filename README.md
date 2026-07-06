@@ -157,7 +157,7 @@ notebooks/integral_precomputation.ipynb
 If you use this repository, please cite the associated paper:
 
 ```text
-Kanin, E., Möri, A., Garagash, D., and Lecampion, B. Steadily moving semi-infinite fracture in plane poroelasticity. arXiv preprint arXiv:2604.18483, 2026.
+Kanin, E., Möri, A., Garagash, D. and Lecampion, B., 2026. Steadily moving semi-infinite fracture in plane poroelasticity. International Journal of Engineering Science, 227, p.104611.
 ```
 
 BibTeX:
@@ -166,12 +166,13 @@ BibTeX:
 @article{kanin2026steadily,
   title={Steadily moving semi-infinite fracture in plane poroelasticity},
   author={Kanin, Evgenii and M{\"o}ri, Andreas and Garagash, Dmitry and Lecampion, Brice},
-  journal={arXiv preprint arXiv:2604.18483},
-  year={2026}
+  journal={International Journal of Engineering Science},
+  volume={227},
+  pages={104611},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
-
-The citation will be updated with the final journal reference once the article details are available.
 
 ## License
 
